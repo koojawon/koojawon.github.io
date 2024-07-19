@@ -201,3 +201,6 @@ jekyll_compose:
       tags:
       published: false
       sitemap: false
+
+plugins:
+  - jemoji
