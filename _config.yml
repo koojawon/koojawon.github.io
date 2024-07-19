@@ -69,7 +69,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://github.com/koojawon/koojawon.github.io/blob/main/assets/img
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/logo.png
