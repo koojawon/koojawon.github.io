@@ -14,7 +14,7 @@ toc_sticky: true
 
 AWS ALB를 이용해 https 요청을 http프로토콜로 전환해 스프링이 있는 백엔드 서버로 전달하고 있었다.
 
-이때 구글에서 OAuth2.0 성공 시 redirection url은 https://{uri}/api/login/oauth2/code/google로 설정해둔 상태이나, 스프링에서 http://{uri}/api/login/oauth2/code/google로 리디렉션 시키려 하였다!!
+이때 구글에서 OAuth2.0 성공 시 redirection url은 https://{uri}/api/login/oauth2/code/google로 설정해둔 상태이나, 스프링에서 http://{uri}/api/login/oauth2/code/google로 리디렉션 시키려 하였다!
 
 
 
